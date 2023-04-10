@@ -1,3 +1,4 @@
-https://github.com/pedrotraverso/UAI-LPA-TP.git
+GitHub Repository
+https://github.com/pedrotraverso/UAI-LPPA-TP.git
 
-TP inicial: instalar GIT, crear un repositorio local y luego vincularlo con un repositorio creado en GitHub para luego poder agregar un primer archivo Readme al mismo.
+04/04/2023 - TP inicial: instalar GIT, crear un repositorio local y vincularlo con un repositorio creado en GitHub para luego poder agregar un primer archivo README al mismo.
